@@ -6,7 +6,7 @@ from llama_index.llms.gemini import Gemini
 
 load_dotenv()
 if not os.getenv("GOOGLE_API_KEY"):
-    print("❌ Error: GOOGLE_API_KEY not found in .env")
+    print("Error: GOOGLE_API_KEY not found in .env")
     exit(1)
 
 async def main():
@@ -44,9 +44,10 @@ async def main():
         llms=llm_map
     )
 
-    print(f"🤖 Bot Starting... Topic: {video_context}")
+    print(f"Starting... Topic: {video_context}")
     result = await agent.run()
     print(f"Task finished: {result.success}")
 
 if __name__ == "__main__":
+
     asyncio.run(main())
