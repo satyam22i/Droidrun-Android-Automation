@@ -1,4 +1,4 @@
-# 🚀 DroidAgent: The Autonomous AI Social Media Intern
+# DroidAgent: The Autonomous AI Social Media Intern
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![DroidRun](https://img.shields.io/badge/Powered%20By-DroidRun-orange?style=for-the-badge)
@@ -7,32 +7,32 @@
 
 > **"Stop writing brittle scripts. Start hiring AI agents."**
 
-## 📢 The Vision
+## The Vision
 Social media management is repetitive, time-consuming, and manual. Existing automation tools (like Appium or Selenium) are **brittle**, they break if a button moves by 10 pixels.
 
 We built **DroidAgent**: a next-generation **AI Agent** that sees your screen, understands social media apps, and executes complex workflows just like a human social media manager.
 
 **The best part?** It's not hard-coded. You can change its entire job description just by changing a **single text prompt.**
 
-## ✨ Key Capabilities
+## Key Capabilities
 
-### 1. 🧠 Universal Flexibility (The "Prompt-Driven" Engine)
+### 1. Universal Flexibility (The "Prompt-Driven" Engine)
 Unlike traditional bots that only do one thing, DroidManager is a generalist. By simply changing the `goal` string in Python, the agent adapts instantly:
 
 * **Scenario A (Content Creator):** *"Upload the last video from Gallery to Reels with a generated caption with respect to the content."*
 * **Scenario B (Comment Farming Bot):** *"Opens Instagram, sees the next potential viral reel and comments on it which can acquire new profile views and maybe followers if some comment hits."*
 * **Scenario C (Community Manager):** *"Check my DMs. If anyone asks for 'Price', reply with '$50' and archive the chat."*
 
-### 2. 👁️ Computer Vision UI Navigation
+### 2. Computer Vision UI Navigation
 We use **DroidRun's Vision capabilities** (powered by Gemini) to "see" the app.
 * It doesn't need hidden XML IDs.
 * It recognizes buttons by their icon (e.g., "The + button", "The blue Share button").
 * It handles pop-ups, keyboard obstructions, and UI changes dynamically.
 
-### 3. 📝 "App Cards" Knowledge Base
+### 3. "App Cards" Knowledge Base
 We created a custom **Intelligence Layer** (`instagram.md`) that teaches the agent the specific layout of Instagram. This means the AI doesn't have to guess; it knows exactly where the "Reels" tab and "Share" buttons are, reducing hallucinations to near zero.
 
-### 4. 🎨 Generative Creativity
+### 4. Generative Creativity
 The agent doesn't just click buttons; it **creates content**.
 * It analyzes your video context.
 * It uses an LLM (Large Language Model) to generate viral, context-aware captions and hashtags on the fly.
@@ -40,7 +40,7 @@ The agent doesn't just click buttons; it **creates content**.
 
 ---
 
-## 🛠️ The Tech Stack
+## The Tech Stack
 
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ The agent doesn't just click buttons; it **creates content**.
 
 ---
 
-## 📸 Showcase: The "Auto-Uploader" Mode
+## Showcase: The "Auto-Uploader" Mode
 
 In this repository, we demonstrate the **Auto-Uploader** configuration. Here is the workflow the Agent executes autonomously:
 
