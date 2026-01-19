@@ -114,7 +114,7 @@ Analytics Reporter: An agent that opens "Insights," reads the view counts via OC
 
 | **Satyam Srivastav** | **Anurag Kumar** | **Shivam Rawat** |
 | :---: | :---: | :---: |
-| 🧠 **Lead AI Architect** | ⚙️ **DroidRun Specialist** | 👁️ **Computer Vision Engineer** |
+
 
 
 </div>
