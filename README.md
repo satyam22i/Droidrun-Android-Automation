@@ -1,4 +1,4 @@
-# 🚀 DroidManager: The Autonomous AI Social Media Intern
+# 🚀 DroidAgent: The Autonomous AI Social Media Intern
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![DroidRun](https://img.shields.io/badge/Powered%20By-DroidRun-orange?style=for-the-badge)
@@ -8,9 +8,9 @@
 > **"Stop writing brittle scripts. Start hiring AI agents."**
 
 ## 📢 The Vision
-Social media management is repetitive, time-consuming, and manual. Existing automation tools (like Appium or Selenium) are **brittle**—they break if a button moves by 10 pixels. They are "dumb scripts."
+Social media management is repetitive, time-consuming, and manual. Existing automation tools (like Appium or Selenium) are **brittle**, they break if a button moves by 10 pixels.
 
-We built **DroidManager**: a next-generation **AI Agent** that sees your screen, understands mobile apps, and executes complex workflows just like a human social media manager.
+We built **DroidAgent**: a next-generation **AI Agent** that sees your screen, understands social media apps, and executes complex workflows just like a human social media manager.
 
 **The best part?** It's not hard-coded. You can change its entire job description just by changing a **single text prompt.**
 
@@ -19,8 +19,8 @@ We built **DroidManager**: a next-generation **AI Agent** that sees your screen,
 ### 1. 🧠 Universal Flexibility (The "Prompt-Driven" Engine)
 Unlike traditional bots that only do one thing, DroidManager is a generalist. By simply changing the `goal` string in Python, the agent adapts instantly:
 
-* **Scenario A (Content Creator):** *"Upload the last video from Gallery to Reels with a generated caption."*
-* **Scenario B (Engagement Bot):** *"Open Instagram, search for #AI, and like the top 3 posts."*
+* **Scenario A (Content Creator):** *"Upload the last video from Gallery to Reels with a generated caption with respect to the content."*
+* **Scenario B (Comment Farming Bot):** *"Opens Instagram, sees the next potential viral reel and comments on it which can acquire new profile views and maybe followers if some comment hits."*
 * **Scenario C (Community Manager):** *"Check my DMs. If anyone asks for 'Price', reply with '$50' and archive the chat."*
 
 ### 2. 👁️ Computer Vision UI Navigation
@@ -92,14 +92,16 @@ python upload_bot.py
 
 
 ```
-### Watch your phone! The agent will take control and perform the upload.
+### Grasp the new execution ! This agent will take control and performs the action that drives growth for you.
 
 ## Future Roadmap
+AI Automation Workflows:- Curate a workflow on platforms like n8n/zapier which helps making it more easy to operate.
+
 Multi-App Workflows: "Take a screenshot of a Tweet, crop it, and post it to Instagram Stories."
 
-Schedule Listener: An agent that runs 24/7, waiting for specific times to post content.
+Schedule Listener: An agent that runs when you want, waits for your command on specific times.
 
-Analytics Reporter: An agent that opens "Insights," reads the view counts via OCR, and saves them to a Google Sheet.
+Analytics Reporter: Opens "Insights," reads the required metrics via OCR, saves them to a Google Sheet and make further classification on command.
 
 <br />
 <br />
