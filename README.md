@@ -24,7 +24,7 @@ Unlike traditional bots that only do one thing, DroidManager is a generalist. By
 * **Scenario C (Community Manager):** *"Check my DMs. If anyone asks for 'Price', reply with '$50' and archive the chat."*
 
 ### 2. 👁️ Computer Vision UI Navigation
-We use **DroidRun's Vision capabilities** (powered by Gemini/DeepSeek) to "see" the app.
+We use **DroidRun's Vision capabilities** (powered by Gemini) to "see" the app.
 * It doesn't need hidden XML IDs.
 * It recognizes buttons by their icon (e.g., "The + button", "The blue Share button").
 * It handles pop-ups, keyboard obstructions, and UI changes dynamically.
