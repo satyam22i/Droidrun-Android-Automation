@@ -45,7 +45,7 @@ The agent doesn't just click buttons; it **creates content**.
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
 | **Orchestration** | **DroidRun SDK** | The core framework controlling the Android device via ADB. |
-| **The Brain** | **Gemini 2.0 Flash** / **DeepSeek-V3** | Provides reasoning, vision, and decision-making capabilities. |
+| **The Brain** | **Gemini 2.0 Flash**  | Provides reasoning, vision, and decision-making capabilities. |
 | **The Hands** | **Python & ADB** | Executes physical taps, swipes, and text input. |
 | **Knowledge** | **Markdown App Cards** | A cheat-sheet system (RAG-lite) for app-specific navigation rules. |
 | **Platform** | **Android** | Works on any real Android phone or Emulator. |
