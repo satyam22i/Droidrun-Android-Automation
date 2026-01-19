@@ -78,7 +78,7 @@ In this repository, we demonstrate the **Auto-Uploader** configuration. Here is 
 ```bash
 # Clone the repository
 git clone [https://github.com/satyam22i/Droidrun-Android-Automation.git]
-cd DroidManager
+cd Automation
 
 # Install dependencies
 pip install droidrun llama-index-llms-gemini llama-index-llms-openai-like python-dotenv
