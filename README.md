@@ -61,13 +61,13 @@ In this repository, we demonstrate the **Auto-Uploader** configuration. Here is 
 3.  **Selection:** Intelligently switches to "Reel" mode and selects the most recent video from the gallery.
 4.  **Creation:**
     * Navigates through the editing screens.
-    * **Generates a caption** (e.g., *"Check out this futuristic AI! 🤖 #Tech"*) using the LLM.
+    * **Generates a caption** (e.g., *"Check out this futuristic AI! #Tech"*) using the LLM.
     * Types the caption into the text field.
 5.  **Execution:** Identifies the "Share" button (even if hidden by the keyboard) and posts the content.
 
 ---
 
-## 🚀 How to Run It
+##  How to Run It
 
 ### Prerequisites
 1.  **Android Phone:** Developer Mode ON, USB Debugging ON.
@@ -110,7 +110,7 @@ Analytics Reporter: Opens "Insights," reads the required metrics via OCR, saves 
 
 <br />
 
-## 👥 Meet the Team
+##  Meet the Team
 
 <div align="center">
 
@@ -127,6 +127,6 @@ Analytics Reporter: Opens "Insights," reads the required metrics via OCR, saves 
 
 <div align="center">
 
-Made with ❤️, ☕, and 🤖 by the **DroidManager Team**
+Made with ❤️, ☕, and 🤖 by the **DroidAgent Team**
 
 </div>
