@@ -77,7 +77,7 @@ In this repository, we demonstrate the **Auto-Uploader** configuration. Here is 
 ### Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/DroidManager.git](https://github.com/yourusername/DroidManager.git)
+git clone [https://github.com/satyam22i/Droidrun-Android-Automation.git]
 cd DroidManager
 
 # Install dependencies
